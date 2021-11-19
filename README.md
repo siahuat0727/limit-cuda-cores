@@ -31,7 +31,6 @@ My SM ID is 1, take a snap for about 2 s
 My SM ID is 65, sleep forever
 My SM ID is 64, sleep forever
 My SM ID is 65, sleep forever
-...
 My SM ID is 1, wake up!
 My SM ID is 1, wake up!
 ...
@@ -43,9 +42,9 @@ Hello world! My SM ID is 1
 Hello world! My SM ID is 0
 Hello world! My SM ID is 1
 Hello world! My SM ID is 1
-Hello world! My SM ID is 0
-Hello world! My SM ID is 0
 ...
+Hello world! My SM ID is 0
+Hello world! My SM ID is 0
 Main task end
 ```
 

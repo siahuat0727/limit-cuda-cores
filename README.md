@@ -9,7 +9,7 @@ In this demo, we limited only two SM cores to print "Hello world!".
 
 This trick may be used in some academic research, for example, to simulate the running for a task in lower-level GPU hardware.
 
-Check [this comment](https://forums.developer.nvidia.com/t/how-to-limit-number-of-cuda-cores/42414/6?u=user7977) for a detailed explanation.
+Check [this comment](https://forums.developer.nvidia.com/t/how-to-limit-number-of-cuda-cores/42414/6?u=user7977) for a detailed explanation of the implementation.
 
 Noted that we currently hardcode the number of SM cores and the maximum blocks per SM.
 
